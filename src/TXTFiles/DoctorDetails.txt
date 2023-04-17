@@ -1,0 +1,71 @@
+Medical licence number: 0781234
+Name                  : Pasindu , Geevinda
+Mobile Number    : 0789654321   || DOB    : 2001-04-10
+Address          : null
+Specialisation Number : 10
+
+
+Medical licence number: 769181
+Name                  : Jissa , Boy
+Mobile Number    : 0786201390   || DOB    : 2001-02-15
+Address          : Sri vijayramaya, Sri lanka
+Specialisation Number : 2
+
+
+Medical licence number: 57493
+Name                  : Achchith , Hanissam
+Mobile Number    : 0786201390   || DOB    : 2001-03-16
+Address          : Gamini road, Colombo
+Specialisation Number : 3
+
+
+Medical licence number: 891158
+Name                  : Shanu , Kaweesha
+Mobile Number    : 0786201390   || DOB    : 2001-04-17
+Address          : Galle, Sri Lanka
+Specialisation Number : 4
+
+
+Medical licence number: 854285
+Name                  : Kuburu , Minks
+Mobile Number    : 0786201390   || DOB    : 2001-08-21
+Address          : No.2 Shane road
+Specialisation Number : 8
+
+
+Medical licence number: 789672
+Name                  : Hanu , Meen
+Mobile Number    : 0786201390   || DOB    : 2001-08-28
+Address          : null
+Specialisation Number : 10
+
+
+Medical licence number: 80717
+Name                  : Jim , Passan
+Mobile Number    : 2345678901   || DOB    : 2005-02-12
+Address          : Him song road
+Specialisation Number : 4
+
+
+Medical licence number: 02711
+Name                  : Hain , Sumeer
+Mobile Number    : 0786543218   || DOB    : 2004-03-24
+Address          : Srilanka
+Specialisation Number : 6
+
+
+Medical licence number: 7391321
+Name                  : Ross , Mary
+Mobile Number    : 0192837465   || DOB    : 2006-07-18
+Address          : hioewnfcw
+Specialisation Number : 9
+
+
+Medical licence number: 873719
+Name                  : Kim , Song
+Mobile Number    : 0289765431   || DOB    : 1992-04-28
+Address          : hiowf
+Specialisation Number : 18
+
+
+stop

@@ -1,0 +1,29 @@
+Name             : Lucifer , Diots
+Mobile Number    : 0786201390   || DOB    : 2001-06-29
+Address          : null
+Password         : user1
+Username         : LuciferDiots
+
+
+Name             : Tharupathi , Vihasa
+Mobile Number    : 0786201390   || DOB    : 2000-11-17
+Address          : null
+Password         : vihasa2000
+Username         : TharupathiVihasa
+
+
+Name             : Tharushi , Amasha
+Mobile Number    : 0123456789   || DOB    : 2001-04-10
+Address          : null
+Password         : user1
+Username         : TharushiAmasha
+
+
+Name             : Pasindu , Geevinda
+Mobile Number    : 0786201390   || DOB    : 2001-06-29
+Address          : null
+Password         : user1
+Username         : PasinduGeevinda
+
+
+stop

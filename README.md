@@ -12,7 +12,7 @@ Features:
 * Etc....
 
 Technologies Used:
-* Java Swing
+* Java(version 17) Swing
 * MySQL Database
 
 Installation:
@@ -26,6 +26,7 @@ Create a MySQL database and run the SQL script provided in the repository.
 
 4. Run the application
 The application can be run from the IDE or by running the executable JAR file.
+note: when you ask for logging information for manager or ask for doctor details to edit, you can use .txt files on ..\src\TXTFiles location. All edited and written details are stored there.
 
 Contributing:
 Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub. If you want to contribute to the project, please fork the repository and submit a pull request.
